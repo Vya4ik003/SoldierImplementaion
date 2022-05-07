@@ -6,7 +6,7 @@ namespace SoldierImplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var s = Soldier.Create(Soldier.ManInBlack);
         }
     }
 }

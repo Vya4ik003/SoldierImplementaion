@@ -1,0 +1,16 @@
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\bin\Debug\net5.0\SoldierImplication.exe
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\bin\Debug\net5.0\SoldierImplication.deps.json
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\bin\Debug\net5.0\SoldierImplication.runtimeconfig.json
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\bin\Debug\net5.0\SoldierImplication.runtimeconfig.dev.json
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\bin\Debug\net5.0\SoldierImplication.dll
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\bin\Debug\net5.0\ref\SoldierImplication.dll
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\bin\Debug\net5.0\SoldierImplication.pdb
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\SoldierImplication.csproj.AssemblyReference.cache
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\SoldierImplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\SoldierImplication.AssemblyInfoInputs.cache
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\SoldierImplication.AssemblyInfo.cs
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\SoldierImplication.csproj.CoreCompileInputs.cache
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\SoldierImplication.dll
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\ref\SoldierImplication.dll
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\SoldierImplication.pdb
+C:\Users\vya4e\source\repos\SoldierImplication\SoldierImplication\obj\Debug\net5.0\SoldierImplication.genruntimeconfig.cache
